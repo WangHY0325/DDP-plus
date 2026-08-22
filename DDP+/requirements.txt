@@ -1,0 +1,10 @@
+torch
+transformers
+deepspeed
+accelerate
+peft
+numpy
+tensorboard
+safetensors
+datasets
+lm-eval
